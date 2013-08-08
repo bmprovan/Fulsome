@@ -1,0 +1,4 @@
+Fulsome
+=======
+
+Fulsome - Abundant, copious. Fully developed, mature. It's also one of the few non-plural words you can form with the letters SFML. Fulsome is a collection of tools that I am collecting and tweaking constantly. The problem with getting started with games development in SFML is that there are an abundance of resources available, but all of them have different focus areas. I am collecting all of them in one spot AND modifying them to work together, using each other effectively. For instance, I wrote my own atlas code, and fully integrated it with some sprite batching code, so that you can create sprite batch items directly from atlas entries. It's very intuitive, and in the future I plan on adding animation support and Tiled TMX map support, using SpriteBatchItems instead of sprites.
